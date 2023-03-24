@@ -4,7 +4,7 @@ Webpage live at [hortfrancis.github.io/github-pages-example-webpage](https://hor
 
 This is to demonstrate how easy it is to use GitHub Pages to set up a simple webpage, for free! That's right, anyone can do it!
 
-[Take a look at the full Medium article I wrote here.]()
+[Take a look at the full Medium article I wrote here.](https://medium.com/@hortfrancis/hosting-a-basic-webpage-on-github-pages-e29d700068db)
 
 ## Heading 2
 
